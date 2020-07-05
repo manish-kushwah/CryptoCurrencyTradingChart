@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.container {
+  width: 100%;
+  margin: 2rem 1rem;
+}
+
+.title {
+  color: #6c757d;
+  margin-bottom: 2ddrem;
+}
+
+table {
+  width: auto !important;
+  display: grid;
+  justify-content: center;
+}
+
+.tv-lightweight-charts {
+  width: inherit !important;
+  overflow: unset !important;
+}
